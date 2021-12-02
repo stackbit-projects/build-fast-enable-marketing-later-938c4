@@ -56,5 +56,5 @@ const components = {
     'PostLayout': dynamic(() => import('./layouts/PostLayout')),
     'PostFeedLayout': dynamic(() => import('./layouts/PostFeedLayout')),
     'PostFeedCategoryLayout': dynamic(() => import('./layouts/PostFeedCategoryLayout'))
-    'P': dynamic(() => import('./layouts/P'))
+    'Pricing': dynamic(() => import('./layouts/P'))
 };
