@@ -1,5 +1,5 @@
 name: Pricing
-label: Alert Section
+label: Pricing Section
 groups:
   - sectionComponent
 fields:
