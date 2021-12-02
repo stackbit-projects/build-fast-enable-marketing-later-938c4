@@ -3,6 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - type: Pricing
+    body: New Year's Sale! 2022 will be amazing!
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
@@ -135,7 +136,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
