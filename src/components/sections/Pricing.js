@@ -10,15 +10,15 @@ const growthFeatures = [
     'Nam ut ipsa nesciunt culpa modi dolor',
 ]
 
-export default function Pricing({body}) {
+export default function Pricing({ body }) {
     return (
         <div className="bg-gray-900">
             <div className="pt-12 px-4 sm:px-6 lg:px-8 lg:pt-20">
                 <div className="text-center">
                     <h2 className="text-lg leading-6 font-semibold text-gray-300 uppercase tracking-wider">Pricing</h2>
                     <p className="mt-2 text-3xl font-extrabold text-white sm:text-4xl lg:text-5xl">
-                        The right price for you, whoever you are
-          </p>
+                        {body}
+                    </p>
                     <p className="mt-3 max-w-4xl mx-auto text-xl text-gray-300 sm:mt-5 sm:text-2xl">
                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit numquam eligendi quos odit doloribus
                         molestiae voluptatum.
