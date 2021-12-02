@@ -1,0 +1,7 @@
+name: Pricing
+label: Alert Section
+groups:
+  - sectionComponent
+fields:
+  - type: text
+    name: body
