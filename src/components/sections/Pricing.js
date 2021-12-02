@@ -10,7 +10,7 @@ const growthFeatures = [
     'Nam ut ipsa nesciunt culpa modi dolor',
 ]
 
-export default function Pricing() {
+export default function Pricing({body}) {
     return (
         <div className="bg-gray-900">
             <div className="pt-12 px-4 sm:px-6 lg:px-8 lg:pt-20">
