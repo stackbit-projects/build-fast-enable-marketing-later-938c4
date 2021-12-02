@@ -1,5 +1,4 @@
 /* This example requires Tailwind CSS v2.0+ */
-import { CheckIcon } from '@heroicons/react/outline'
 
 const hobbyFeatures = ['Pariatur quod similique', 'Sapiente libero doloribus', 'Vel ipsa esse repudiandae']
 const scaleFeatures = ['Pariatur quod similique', 'Sapiente libero doloribus', 'Vel ipsa esse repudiandae']
